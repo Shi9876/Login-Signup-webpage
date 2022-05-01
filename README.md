@@ -1,2 +1,2 @@
 # Login-Signup-webpage
- This is a simple login and sign up web page created using html and css.
+ I created a simple login and sign up web page using html and css.
